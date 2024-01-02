@@ -1,0 +1,50 @@
+body {
+   background-image: url('wallpaper.jpg');
+   background-size: cover; 
+}
+
+a:link {
+   color: maroon;
+   background-color: whitesmoke;
+   text-decoration: none;
+   text-align: center;
+   font-family: verdana, Verdana, Geneva, Tahoma, sans-serif;
+   padding: 15px;
+}
+
+a:visited {
+   color: darkslategray;
+   background-color: rosybrown;
+   text-decoration: none;
+   text-align: center;
+   font-family: verdana, Verdana, Geneva, Tahoma, sans-serif;
+   padding: 15px;
+}
+
+a:hover {
+   color: sagegreen;
+   background-color: rosybrown;
+   text-decoration: none;
+   text-align: center;
+   font-family: verdana, Verdana, Geneva, Tahoma, sans-serif;
+   padding: 15px;
+}
+
+a:active {
+   color: brown;
+   background-color: rosybrown;
+   text-decoration: none;
+   text-align: center;
+   font-family: verdana, Verdana, Geneva, Tahoma, sans-serif;
+   padding: 15px;
+}
+
+h1 {
+   color: blueviolet;
+}
+
+
+
+
+
+
